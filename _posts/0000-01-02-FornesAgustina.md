@@ -2,5 +2,5 @@
 layout: slide
 title: "Bienvenidos a la segunda página!"
 ---
-Tu texto
+Agustina Fornés y Chiara Mennuti
 Utiliza la flecha hacia la izquierda para volver!
